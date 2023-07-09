@@ -1,4 +1,4 @@
 # Car-Animation
-This repository contain Car Animation that I have created using HTML and CSS.
+This repository contain Car Animation project that I have created using HTML and CSS.
 
 
